@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "My Blog",
-            "content": "",
+            "title": "Title",
+            "content": "My Blog . Nice to meet you!! Have a nice day.. .",
             "url": "https://faraday0.github.io/test01/2022/08/24/MySelf.html",
             "relUrl": "/2022/08/24/MySelf.html",
             "date": " • Aug 24, 2022"
@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Jupyter Blog Post",
-            "content": "print(&quot;Hello world!!&quot;) .",
+            "content": "print(&quot;Hello World!!&quot;) .",
             "url": "https://faraday0.github.io/test01/jupyter/2022/08/24/My-First-Post.html",
             "relUrl": "/jupyter/2022/08/24/My-First-Post.html",
             "date": " • Aug 24, 2022"
