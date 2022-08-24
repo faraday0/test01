@@ -6,8 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
+<<<<<<< HEAD
 title: MyFirstPage
 description: My first Web page to use blogging platform with support for Jupyter Notebooks.
+=======
+title: MyFirstPages
+description: My First Web Page to use blogging platform with support for Jupyter Notebooks.
+>>>>>>> ab71ef729bd450b7fcebeee0caf02769d10fcf56
 github_username: faraday0
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "test01"
