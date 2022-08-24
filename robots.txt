@@ -1,1 +1,1 @@
-Sitemap: https://faraday0.github.io/test01/sitemap.xml
+Sitemap: /sitemap.xml
