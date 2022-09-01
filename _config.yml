@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: MySecondPages
+title: MyFirstPages
 description: My First Web Page to use blogging platform with support for Jupyter Notebooks.
 
 github_username: faraday0
@@ -102,7 +102,7 @@ plugins:
 paginate: 15
 paginate_path: /page:num/
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/Tactile   #remote_theme: jekyll/minima
 
 titles_from_headings:
   enabled:     true
