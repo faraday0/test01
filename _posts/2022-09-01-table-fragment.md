@@ -9,5 +9,5 @@ title: Table Fragment
 # Study History
 
 | Week | Hacks |
-|-|-|
+|:-:|:-:|
 | 1 | My First blog |
