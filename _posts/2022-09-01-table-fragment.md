@@ -7,7 +7,7 @@ title: Table Fragment
 ---
 
 # Study History
+
 | Week | Hacks |
-|---|---|
+|-|-|
 | 1 | My First blog |
-| 2 | HTML fragment |
